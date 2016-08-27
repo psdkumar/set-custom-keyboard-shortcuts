@@ -37,7 +37,10 @@ which prints the default values into a hidden file named **.xbindkeysrc** locate
   ``` 
   "firefox"
     Control+Shift + f
-  ```  
+  ```
+* You have to start xbindkeys for your shortcut to work. Run the following command to start xbindkeys.
+
+  ``` xbindkeys ```
 * Now, you can press the shortcut key to run the respective command. 
   
   Ex : Press *Control + Shift + f* to open firefox
