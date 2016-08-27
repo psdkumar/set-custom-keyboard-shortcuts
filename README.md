@@ -1,5 +1,5 @@
 # set-keyboard-shortcuts
-Set keyboard shortcuts to do anything
+Set Custom keyboard Commands/Shortcuts to do anything in your system.
 
 **Reference** : [Custom Keyboard Commands/Shortcuts]         (http://askubuntu.com/questions/254424/how-can-i-change-what-keys-on-my-keyboard-do-how-can-i-create-custom-keyboard/254425#254425)
 
